@@ -1,0 +1,3 @@
+hello my name is Zargham abbas
+int name;
+cin >> "name";
